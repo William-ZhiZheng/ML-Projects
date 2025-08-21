@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./projects/reinforcement-learning/sac-line-following/src"
+    ]
+}
